@@ -1218,7 +1218,7 @@ var Ms={currentStreak:"Current Streak",maxStreak:"Max Streak",winPercentage:"Win
                 }d+=a
               }
             })),d+="\n")
-          })),{text:"".concat(l,"\n\n").concat(d.trimEnd())+"\n\nShabash!"}
+          })),{text:"".concat(l,"\n\n").concat(d.trimEnd())+"\n\nShabash!\n#Happy_Anniversary_JU47"}
         }({evaluations:e.gameApp.evaluations,dayOffset:e.gameApp.dayOffset,rowIndex:e.gameApp.rowIndex,isHardMode:e.gameApp.hardMode,isWin:e.gameApp.gameStatus===es}),(function(){
           e.gameApp.addToast("Copied results to clipboard",2e3,!0)
         }),(function(){
